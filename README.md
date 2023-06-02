@@ -6,4 +6,4 @@
 
 [![kketg's GitHub stats](https://github-readme-stats.vercel.app/api?username=kketg&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kketg&theme=tokyonight&hide=html,css&layout=donut&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kketg&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
